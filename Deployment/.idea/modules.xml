@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Vasu_IT/.idea/Vasu_IT.iml" filepath="$PROJECT_DIR$/../Vasu_IT/.idea/Vasu_IT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hectick/.idea/hectick.iml" filepath="$PROJECT_DIR$/../hectick/.idea/hectick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shubhz.iml" filepath="$PROJECT_DIR$/.idea/shubhz.iml" />
+    </modules>
+  </component>
+</project>
