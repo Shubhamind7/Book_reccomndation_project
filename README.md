@@ -1,0 +1,2 @@
+# Book_reccomndation_project
+ This project is guide for end to end machine learning developemnt project for programmong books reccomndation project. In this project I have used prgramming book datset and cosine similarity feature of ML to generate similar book predition to the query. Here i have also provided the code of deployemnt of this project which takes the query as book name or subject name and suggest similar books. Also in model building part u can see manipulations in dataset.
